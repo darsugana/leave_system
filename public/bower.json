@@ -1,0 +1,19 @@
+{
+  "name": "public",
+  "version": "0.0.0",
+  "authors": [
+    "developer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "bootstrap-datepicker": "bootstrap-3-datepicker#~1.4.1"
+  }
+}
